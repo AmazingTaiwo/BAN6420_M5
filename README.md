@@ -1,2 +1,6 @@
-# BAN6420_M5
-Milestone Assignment 2: Principal Component Analysis
+# BAN6420: Programming in R & Python
+# Module 4 Assignment: Netflix Data Visualization
+
+# Name: Babalola Taiwo
+# Learner IS: 162894
+
